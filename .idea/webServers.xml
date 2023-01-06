@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="18007410-1dae-4630-b9f8-372eb62fc152" name="shopping-list" url="https://ddc-web-student.cnm.edu/~ewantling/shopping-list/">
+        <fileTransfer rootFolder="/home/ewantling/public_html/shopping-list" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="8a74efde-7511-4927-9c21-06d7e0e6fb0b" sshConfig="ewantling@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
